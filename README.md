@@ -1,20 +1,241 @@
+<h2 align="left">Hi, I'm Ammar Omari 👋 Welcome to my profile!!</h2>
 
-[![](https://visitcount.itsvg.in/api?id=Ammar7077&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
----
-# 💫 About Me:
-My Website [ammaromari.top](http://ammaromari.top/)
+<a href="http://www.ammaromari.top/"><h1 align="center">ammaromari.top</h1></a>
 
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ammar_omari_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammar-omari) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ammaromari7077) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_ammar_omari_) [RUDAIN.net](http://ammaromari.online/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/ammar-omari/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/13494513/ammar-omari" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://medium.com/@ammaromari7077" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://x.com/_ammar_omari_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ammar7077&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ammar7077&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar7077&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ammar7077&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=15&date_format=M%20j%5B,%20Y%5D" height="240" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammar7077&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ammar7077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nightowl&hide_border=false&custom_title=%20%20%20%20%20%20%20" height="180" alt="languages graph"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<h2 align="left">🔧 Technologies & Tools</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="60" alt="trello logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/apple/000000" height="60" alt="apple logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="60" alt="android logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="materialui logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=maven" height="60" alt="apachemaven logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="60" alt="nginx logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="60" alt="canva logo"  />
+</div>
+
+###
+
+<h3 align="left">Project Management | Agile & Waterfall</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="jira logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=azure" height="45" alt="azure logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="45" alt="trello logo"  />
+</div>
+
+###
+
+<h3 align="left">Databases | SQL & NoSQL</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="microsoftsqlserver logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="sqlite logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="oracle logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="45" alt="sequelize logo"  />
+</div>
+
+###
+
+<h3 align="left">Backend</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="nestjs logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="fastapi logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dot-net logo"  />
+</div>
+
+###
+
+<h3 align="left">Fontend | Web & Mobile</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="45" alt="materialui logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="kotlin logo"  />
+</div>
+
+###
+
+<h3 align="left">Languages</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=dart" height="45" alt="dart logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="kotlin logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
+</div>
+
+###
+
+<h3 align="left">Design | UI/UX</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
+</div>
+
+###
+
+<h3 align="left">IDEs</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&username=ammaromari7077&theme=default" alt="Layout with last medium posts"  />
+</div>
+
+###
