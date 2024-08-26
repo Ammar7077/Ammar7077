@@ -122,14 +122,10 @@
 
 ###
 
-<p align="center">
-  <img src="https://www.svgrepo.com/show/484232/database.svg" height="27" alt="database" style="vertical-align: middle;" />
-  <span style="vertical-align: middle;">Database | SQL & NoSQL</span>
-</p>
 
-<h3 style="display: flex; align-items: center; margin: 0;">
-  <img src="https://www.svgrepo.com/show/484232/database.svg" height="27" alt="database" style="margin-right: 8px; margin-top: 10px;" />
-  <span style="display: flex; align-items: center; margin-bottom: 10px;">Database | SQL & NoSQL</span>
+<h3 align="center">
+  <img src="https://www.svgrepo.com/show/484232/database.svg" height="27" alt="database" style="vertical-align: middle; display: inline-block;" />
+  <span style="vertical-align: middle; display: inline-block; margin-left: 8px;">Database | SQL & NoSQL</span>
 </h3>
 
 ###
