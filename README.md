@@ -158,7 +158,7 @@
 ###
 
 
-<h3 align="start">
+<h3 style="align-items: center;">
   <img src="https://www.svgrepo.com/show/530439/api-interface.svg" height="50" alt="backend" style="vertical-align: middle; display: inline-block;" />
   <span style="vertical-align: middle; display: inline-block; margin-left: 8px;">Backend</span>
 </h3>
