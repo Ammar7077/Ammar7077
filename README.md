@@ -101,6 +101,8 @@
 ###
 
 <div align="center">
+  <img src="https://seeklogo.com/images/C/clickup-symbol-logo-BB24230BBB-seeklogo.com.png" height="45" alt="jira logo"  />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="jira logo"  />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
