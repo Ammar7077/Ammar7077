@@ -4,14 +4,7 @@
 
 <h1 align="center"><a href="http://www.ammaromari.top/" target="_blank" rel="noopener noreferrer">Visit AmmarOmari.Top</a></h1>
 
-###
-<h1 style="text-align: center;" align="center">
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=Ammar7077&icon=0&color=0" alt="Profile views" width="300" style="margin-top: -60px ">
-  </a>
-</h1>
-
-###
+### Contacts
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ammar-omari/" target="_blank">
@@ -31,6 +24,13 @@
 
 ###
 
+<h1 style="text-align: center;" align="center">
+  <a href="https://visitcount.itsvg.in" target="_blank">
+    <img src="https://visitcount.itsvg.in/api?id=Ammar7077&icon=0&color=0" alt="Profile views" width="300" style="margin-top: -60px ">
+  </a>
+</h1>
+
+###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ammar7077&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=15&date_format=M%20j%5B,%20Y%5D" height="240" alt="streak graph"  />
   <img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.vercel.app/api?username=Ammar7077&hide_title=true&amp;theme=nightowl&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false;" height="180" alt="stats graph">
