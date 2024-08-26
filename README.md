@@ -105,8 +105,6 @@
 ###
 <br/>
 
-<h3 align="left">Project Management | Agile & Waterfall</h3>
-
 <h3 align="start">
   <img src="https://www.svgrepo.com/show/467621/check-lists-square.svg" height="27" alt="pm" style="vertical-align: middle; display: inline-block;" />
   <span style="vertical-align: middle; display: inline-block; margin-left: 8px;">Project Management | Agile & Waterfall</span>
@@ -185,7 +183,12 @@
 
 ###
 
-<h3 align="left">Fontend | Web & Mobile</h3>
+
+
+<h3 align="start">
+  <img src="https://www.svgrepo.com/show/484473/web-page-browser-analysis-screen.svg" height="50" alt="Fontend" style="vertical-align: middle; display: inline-block;" />
+  <span style="vertical-align: middle; display: inline-block; margin-left: 8px;">Fontend | Web & Mobile</span>
+</h3>
 
 ###
 
