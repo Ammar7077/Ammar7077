@@ -122,11 +122,11 @@
 
 ###
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <h3 style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://www.svgrepo.com/show/484232/database.svg" height="27" alt="database" /> Database | SQL & NoSQL
-  </h3>
-</div>
+
+<h3 style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://www.svgrepo.com/show/484232/database.svg" height="27" alt="database" /> <p style="margin-top: -50px;">Database | SQL & NoSQL</p>
+</h3>
+
 
 ###
 
