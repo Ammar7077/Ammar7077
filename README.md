@@ -6,6 +6,14 @@
 
 ###
 
+<div style="text-align: center;">
+  <a href="https://visitcount.itsvg.in" target="_blank">
+    <img src="https://visitcount.itsvg.in/api?id=Ammar7077&icon=0&color=0" alt="Profile views" width="300" style="margin-top: -60px ">
+  </a>
+</div>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ammar-omari/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
