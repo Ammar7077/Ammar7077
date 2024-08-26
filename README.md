@@ -59,7 +59,9 @@
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
   <img width="30" />
-  <img src="https://cdn.simpleicons.org/apple/000000" height="60" alt="apple logo"  />
+  
+  <img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" height="60" alt="apple logo"  />
+  
   <img width="30" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="60" alt="android logo"  />
   <img width="30" />
