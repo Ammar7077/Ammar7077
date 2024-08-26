@@ -4,7 +4,7 @@
 
 <h1 align="center"><a href="http://www.ammaromari.top/" target="_blank" rel="noopener noreferrer">Visit AmmarOmari.Top</a></h1>
 
-### Contacts
+<h2 align="left">📞 Contacts</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ammar-omari/" target="_blank">
