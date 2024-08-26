@@ -186,8 +186,8 @@
 
 
 <h3 align="start">
-  <img src="https://www.svgrepo.com/show/484473/web-page-browser-analysis-screen.svg" height="50" alt="Fontend" style="vertical-align: middle; display: inline-block;" />
-  <span style="vertical-align: middle; display: inline-block; margin-left: 8px;">Fontend | Web & Mobile</span>
+  <img src="https://www.svgrepo.com/show/484473/web-page-browser-analysis-screen.svg" height="35" alt="Frontend" style="vertical-align: middle; display: inline-block;" />
+  <span style="vertical-align: middle; display: inline-block; margin-left: 8px;">Frontend | Web & Mobile</span>
 </h3>
 
 ###
