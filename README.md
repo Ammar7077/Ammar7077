@@ -152,11 +152,11 @@
 
 ###
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <h3>
-    <img src="https://www.svgrepo.com/show/530439/api-interface.svg" height="40" alt="backend" /> Backend
-  </h3>
-</div>
+
+<h3 align="start">
+  <img src="https://www.svgrepo.com/show/530439/api-interface.svg" height="50" alt="backend" style="vertical-align: middle; display: inline-block;" />
+  <span style="vertical-align: middle; display: inline-block; margin-left: 8px;">Backend</span>
+</h3>
 
 ###
 
