@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="left">🔧 Technologies & Tools</h2>
+<h2 align="left">🛠️ Technologies & Tools</h2>
 
 ###
 
@@ -121,7 +121,7 @@
 
 ###
 
-<h3 align="left">Databases | SQL & NoSQL</h3>
+<h3 align="left"><img src="https://www.svgrepo.com/show/484232/database.svg" height="30" alt="mysql logo"  />Database | SQL & NoSQL</h3>
 
 ###
 
