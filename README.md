@@ -121,7 +121,9 @@
 
 ###
 
-<h3 align="left"><img src="https://www.svgrepo.com/show/484232/database.svg" height="30" alt="mysql logo"  />Database | SQL & NoSQL</h3>
+<h3 style="text-align: center;">
+  <img src="https://www.svgrepo.com/show/484232/database.svg" height="27" alt="database" />Database | SQL & NoSQL
+</h3>
 
 ###
 
@@ -147,7 +149,9 @@
 
 ###
 
-<h3 align="left">Backend</h3>
+<h3 style="text-align: center;">
+  <img src="https://www.svgrepo.com/show/503163/api-settings.svg" height="30" alt="backend" /> Backend
+</h3>
 
 ###
 
