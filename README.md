@@ -124,7 +124,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <h3>
-    <img src="https://www.svgrepo.com/show/484232/database.svg" height="27" alt="database" /> <p style="margin-top: -50px;">Database | SQL & NoSQL</p>
+    <img src="https://www.svgrepo.com/show/484232/database.svg" height="27" alt="database" /> <p style="margin-bottom: 50px;">Database | SQL & NoSQL</p>
   </h3>
 </div>
 
