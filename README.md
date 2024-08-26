@@ -30,6 +30,7 @@
   </a>
 </h1>
 
+
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ammar7077&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=15&date_format=M%20j%5B,%20Y%5D" height="240" alt="streak graph"  />
@@ -121,9 +122,11 @@
 
 ###
 
-<h3 style="text-align: center;">
-  <img src="https://www.svgrepo.com/show/484232/database.svg" height="27" alt="database" />Database | SQL & NoSQL
-</h3>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <h3>
+    <img src="https://www.svgrepo.com/show/484232/database.svg" height="27" alt="backend" /> Backend
+  </h3>
+</div>
 
 ###
 
