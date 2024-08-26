@@ -124,7 +124,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <h3>
-    <img src="https://www.svgrepo.com/show/484232/database.svg" height="27" alt="backend" /> Backend
+    <img src="https://www.svgrepo.com/show/484232/database.svg" height="27" alt="database" /> Database | SQL & NoSQL
   </h3>
 </div>
 
@@ -154,7 +154,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <h3>
-    <img src="https://www.svgrepo.com/show/503163/api-settings.svg" height="27" alt="backend" /> Backend
+    <img src="https://www.svgrepo.com/show/530439/api-interface.svg" height="27" alt="backend" /> Backend
   </h3>
 </div>
 
