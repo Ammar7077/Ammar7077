@@ -11,12 +11,6 @@
   </a>
 </h1>
 
-<div style="text-align: center;">
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=Ammar7077&icon=0&color=0" alt="Profile views" width="300" style="margin-top: -60px ">
-  </a>
-</div>
-
 ###
 
 <div align="center">
