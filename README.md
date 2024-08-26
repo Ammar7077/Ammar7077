@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center"><a href="http://www.ammaromari.top/" target="_blank">Visit AmmarOmari.Top</a></h1>
+<h1 align="center"><a href="http://www.ammaromari.top/" target="_blank" rel="noopener noreferrer">Visit AmmarOmari.Top</a></h1>
 
 ###
 
