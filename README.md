@@ -45,7 +45,7 @@
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="30" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="30" />
