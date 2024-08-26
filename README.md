@@ -123,7 +123,7 @@
 ###
 
 <h3 style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://www.svgrepo.com/show/484232/database.svg" height="27" alt="database" /> <p style="margin-bottom: 0px;">Database | SQL & NoSQL</p>
+  <img src="https://www.svgrepo.com/show/484232/database.svg" height="27" alt="database" /> <p style="display: flex; justify-content: center; align-items: center; margin-bottom: 0px;">Database | SQL & NoSQL</p>
 </h3>
 
 
