@@ -1,6 +1,5 @@
 ## Featured Projects
-- [Flutter MVC](https://github.com/Ammar7077/test_mobile)
-- [Docker Flutter Web](https://github.com/Ammar7077/docker_flutter_web)
+[Flutter MVC](https://github.com/Ammar7077/test_mobile)  |  [Docker Flutter Web](https://github.com/Ammar7077/docker_flutter_web)
 
 
 
