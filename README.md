@@ -1,3 +1,10 @@
+## Featured Projects
+- [Flutter MVC](https://github.com/Ammar7077/test_mobile)
+- [Docker Flutter Web](https://github.com/Ammar7077/docker_flutter_web)
+
+
+
+
 <h2 align="left">Hi, I'm Ammar Omari 👋 Welcome to my profile!!</h2>
  
 ###
