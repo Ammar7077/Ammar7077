@@ -41,7 +41,8 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ammar7077&locale=en&mode=weekly&theme=ocean-gradient&hide_border=false&border_radius=15&date_format=M%20j%5B,%20Y%5D" height="240" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=Ammar7077&locale=en&mode=weekly&theme=ocean-gradient&hide_border=false&border_radius=15&date_format=M%20j%5B,%20Y%5D" height="240" alt="streak graph"  /> -->
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ammar7077&theme=dark&hide_border=true&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" /></a>
   <img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.vercel.app/api?username=Ammar7077&hide_title=true&amp;theme=nightowl&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false;" height="180" alt="stats graph">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ammar7077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nightowl&hide_border=false&custom_title=%20%20%20%20%20%20%20" height="180" alt="languages graph"  />
 </div>
