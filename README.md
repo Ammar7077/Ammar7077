@@ -123,7 +123,7 @@
 ###
 
 <div align="center">
-  <img src="https://seeklogo.com/images/C/clickup-symbol-logo-BB24230BBB-seeklogo.com.png" height="45" alt="jira logo"  />
+  <img src="https://clickup.com/images/for-se-page/clickup.png" height="45" alt="ClickUp logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="jira logo"  />
   <img width="25" />
