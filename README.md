@@ -161,7 +161,7 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="45" alt="sequelize logo"  />
   <img width="25" />
-  <img src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" height="45" alt="sequelize logo"  />
+  <img src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" height="45" alt="TypeORM logo"  />
 </div>
 
 ###
